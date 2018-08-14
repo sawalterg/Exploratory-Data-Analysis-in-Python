@@ -1,2 +1,2 @@
 # eda
-EDA for several datasets
+Graphical and Quantitative EDA for several datasets
